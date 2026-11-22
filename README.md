@@ -11,5 +11,4 @@ A simple command-line Python application to check real-time weather details for 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/DINESH93-D/weather.app.git](https://github.com/DINESH93-D/weather.app.git)
-   cd weather.app
+   git clone https://github.com/DINESH93-D/weather.app.git
